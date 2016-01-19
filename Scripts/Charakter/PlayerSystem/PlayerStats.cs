@@ -37,7 +37,6 @@ public class PlayerStats {
     public double playerStaticDamage = 0;
     public double playerStaticHealth = 0;
 
-
     // ------------------------------ Constructor ---------------------------------------------------
     public PlayerStats() {
         level = 1;
