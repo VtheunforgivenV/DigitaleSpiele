@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bae6004a5f2914fdcad84939443dd750
+timeCreated: 1452453400
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabObjectMelee: {fileID: 117472, guid: 2e50b2a6b7fedfe4b8500b10181aa4a2, type: 2}
+  - prefabObjectArcher: {fileID: 116146, guid: 2f407bbc24d24cc4a82af16f677a2b87, type: 2}
+  - prefabObjectMage: {fileID: 173676, guid: ea8c15ca5164dcd449556b4886ad012c, type: 2}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
